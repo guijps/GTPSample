@@ -1,3 +1,46 @@
+
+# Unity generated folders
 Library/
-Build/
 Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / JetBrains Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.bak
+*.old
+*.orig
+*.log
+.vs/
+.idea/
+.vscode/
+
+# Unity package and build files
+*.apk
+*.aab
+*.unitypackage
+
+# Asset import workers
+AssetImportWorker*
